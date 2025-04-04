@@ -10,7 +10,7 @@ services:
       DB_name: mongodb-database-lowo4kk4ccw4s4g8wcg4kwwo
       SECRET_KEY: f68e0153a4abbd030ee861bfd91fb159d7dbfc5937e40fa59237901a7e0c2f4a0e97945ff44ee18863dcf0f0e555ee87d2c5cb49dc719a6aefad39736bf174acfc9972f638b3a61b351c094108af547da26a3f7c00b6d771684445deaf717a13b0b6077636ea15b186f8977e5c37e569263962132500c07fbb22c498fb8ab6107954c4809b87ac265e08c99f3cd3921a6e25437fc4dc901b9df28dd1608f3f2a584b29496172e8b1043e05e7ae45596b0131b4e8dec3eb63128040dac1c3bd3b568b30f10376fb2f1f69ac426ca8be87c325995dfec33e0770dd164bdac4edfcbf236ab03322b970a6bb866f9ece2a6686f95cb7b1a73b045827b01c63b98f94
       EMAIL: airsokoke@gmail.com
-      PASSWORD: @Test25.??
+      PASSWORD: Test25
 
   frontend:
     image: shubhobera09/youtube-frontend
